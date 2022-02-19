@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	HashSet uniqueelements= new HashSet();
 	Set s=Arrays.stream(num).filter(i->!uniqueelements.add(i)).boxed()
 	.collect(Collectors.toSet());
-	System.out.println(s);
+	System.out.println("Duplicate element is==="+s);
 	
 //	Map hm= new HashMap(l);
 	
