@@ -5,10 +5,13 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class File1 {
+public class File3 {
 public static void main(String[] args) {
-		System.out.println("File1 is==="+s);
+	System.out.println("File3");
 	
-
+//	Map hm= new HashMap(l);
+	
+	
+	
 			}
 }
